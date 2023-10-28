@@ -26,3 +26,5 @@ def lostie(num_list: list):
 list_nums = sequ(int(input()))
 print(list_nums)
 print(lostie(list_nums))
+
+#Добавлен commit 1
