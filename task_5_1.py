@@ -27,7 +27,7 @@ list_nums = sequ(int(input()))
 print(list_nums)
 print(lostie(list_nums))
 
-#Добавлен commit_1
+#Добавлен commit 1
 #Добавлен commit 2
 
 
