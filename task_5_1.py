@@ -29,4 +29,4 @@ print(lostie(list_nums))
 
 #Добавлен commit_1
 #Добавлен commit_2
-#Добавлен commit_3
+#Добавлен commit 3
