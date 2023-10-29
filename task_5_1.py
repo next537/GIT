@@ -33,3 +33,4 @@ print(lostie(list_nums))
 
 #Добавлен commit 3
 
+№Совместная работа
